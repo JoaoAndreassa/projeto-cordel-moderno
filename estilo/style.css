@@ -69,14 +69,14 @@ section.imagem > p{
    
   
 #img1{
-  background-image: url(/estilo/background001.jpg);
+  background-image: url(.//background001.jpg);
   background-size: cover;
   background-position: center right;
   background-attachment: fixed;
   
 }
 #livro{
-  background-image: url(/estilo/background002.jpg);
+  background-image: url(.//background002.jpg);
   background-size: cover;
   background-attachment: fixed;
   
